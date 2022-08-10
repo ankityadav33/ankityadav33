@@ -17,7 +17,7 @@ Waiting for something that fires up my passion again!!!
 <code><img height="20" alt="Springboot" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
 
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankityadav33&count_private=true)](https://github.com/anuraghazra/github-readme-stat)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankityadav33&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ankityadav33/ankityadav33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
